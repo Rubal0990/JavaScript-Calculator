@@ -1,0 +1,33 @@
+*{
+    background-color: tomato;
+}
+
+.main{
+    margin: 150px 0px 0px 625px;
+}
+
+.btn{
+    width: 100%;
+    height: 100%; 
+    padding: 11px;
+    font-size: x-large;
+    margin: 5px 11px 0px 0px;
+    box-shadow: 1px 1px 2px black;
+    background-color: wheat;
+    border-radius: 8px;
+}
+
+.btn:hover{
+    background-color: rgb(41, 108, 184, 0.7);
+    cursor: pointer;
+}
+
+.textview{
+    padding: 10px;
+    width: 200px;
+    margin: 10px 0px 0px 0px;
+    font-size: x-large;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 1px 1px 2px black;
+}
